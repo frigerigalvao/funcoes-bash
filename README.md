@@ -1,7 +1,8 @@
 # Funções para Scripts BASH
 Conjunto de funções para uso em Scripts BASH
 
-As funções que serão colocadas aqui foram desenvolvidas ao longo de muito tempo trabalhando com scripts BASH. 
+As funções que serão colocadas na pasta funcoes-individuais foram desenvolvidas ao longo de muito tempo trabalhando com scripts BASH. Cada funcão em um arquivo individual.
+Na pasta arquivo-funcoes haverá somente um arquivos com todas as funções, para que possa sem incorporado aos scripts.
 Muitas das funcções estarão com sintaxes antigas, o que compatibiliza seu uso em qualquer versao e distribuiçao de LINUX, outras terão comandos antigos e novos misturados e outra, ainda, serão somente com sintaxe moderna.
 Usuários mais avançados de LINUX poderão até achar essas funções básicas e banais, mas com certeza iniciantes farão bom uso delas para seu apredizado e desenvolvimento dos seus SCRITPS.
 
