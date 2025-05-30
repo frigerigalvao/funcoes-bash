@@ -1,4 +1,4 @@
-# Funções para Scripts BASG
+# Funções para Scripts BASH
 Conjunto de funções para uso em Scripts BASH
 
 As funções que serão colocadas aqui foram desenvolvidas ao longo de muito tempo trabalhando com scripts BASH. 
